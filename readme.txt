@@ -20,6 +20,8 @@ This plugin makes it possible to insert the Hawaiian *kahakō* diacritical chara
 
 > Ā ā Ē ē Ī ī Ō ō Ū ū ʻ
 
+[Contribute on Github](https://github.com/mrwweb/hawaiian-characters)
+
 *Thanks to [Kuaʻāina Ulu ʻAuamo](http://kuahawaii.org/) for inspiring this plugin and reviewing it before launch.*
 
 = Usage =

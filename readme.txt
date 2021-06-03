@@ -44,10 +44,10 @@ This plugin requires **WordPress 4.5 or higher**.
 
 = Other Plugins by MRWweb =
 
-* [Feature a Page Widget](http://wordpress.org/plugins/feature-a-page-widget/) - Shows a summary of any Page in any sidebar.
-* [MRW Web Design Simple TinyMCE](https://wordpress.org/plugins/mrw-web-design-simple-tinymce/) - Get rid of bad and obscure TinyMCE buttons. Move the rest to a single top row. Comes with a bit of help for adding custom CSS classes too.
-* [Post Status Menu Items](http://wordpress.org/plugins/post-status-menu-items/) - Adds post status links–e.g. "Draft" (7)–to post type admin menus.
+* [MRW Simplified Editor](https://wordpress.org/plugins/mrw-web-design-simple-tinymce/) - A simpler editor that focuses editors on content.
 * [Post Type Archive Descriptions](http://wordpress.org/plugins/post-type-archive-descriptions/) - Enables an editable description at the top of a post type archive page.
+* [Post Status Menu Items](http://wordpress.org/plugins/post-status-menu-items/) - Adds post status links–e.g. "Draft" (7)–to post type admin menus.
+* [Feature a Page Widget](http://wordpress.org/plugins/feature-a-page-widget/) - Shows a summary of any Page in any sidebar.
 
 == Frequently Asked Questions ==
 

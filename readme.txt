@@ -1,10 +1,10 @@
 ﻿=== Hawaiian Characters ===
 Contributors: mrwweb
-Donate link: https://www.paypal.me/rootwiley
-Tags: Hawaiian, Character Map, Special Characters, Kahako, Okina
+Donate link: http://kuahawaii.org
+Tags: Hawaiian, Kahako, Okina, Character Map, Special Characters
 Requires at least: 4.5
-Tested up to: 5.2
-Stable tag: 2.0.0
+Tested up to: 5.7
+Stable tag: 2.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -76,6 +76,9 @@ The old Character Map function remains available in WordPress 5.0 in two ways:
 1. The characters are added to the last line of the Classic Editor's character map
 
 == Changelog ==
+
+= 2.0.1 (3 June 2021) =
+* Fix missing JavaScript file for Block Editor
 
 = 2.0.0 (23 September 2019) =
 * Add Block Editor (aka Gutenberg) support via integration with [Insert Special Characters](https://wordpress.org/plugins/insert-special-characters/) (must install)

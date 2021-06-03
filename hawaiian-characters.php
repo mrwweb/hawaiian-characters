@@ -3,10 +3,10 @@
 * Plugin Name: Hawaiian Characters
 * Description: Adds the correct characters / diacriticals to the WordPress Editor for use in Hawaiian
 * Plugin URI: https://mrwweb.com/hawaiian-characters-new-wordpress-plugin/
-* Version: 2.0.0
+* Version: 2.0.1
 * Author: Mark Root-Wiley, MRW Web Design, NonprofitWP.org
 * Author URI: https://MRWweb.com
-* Donate Link: https://www.paypal.me/rootwiley
+* Donate Link: http://kuahawaii.org
 * License: GPLv3
 * Text Domain: hawaiian-characters
 */
